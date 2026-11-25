@@ -1,0 +1,5 @@
+[
+  "https://example.com:8443/a?q=1#part",
+  "/relative/path",
+  "https://[::1]/"
+]
